@@ -1,3 +1,4 @@
 # Virtual-Assistant-for-Movie-Booking!
 **Server Side**<br/>
-(https://user-images.githubusercontent.com/93757803/180890433-5b88d54e-4f59-4495-9c49-1172c05aa9f0.gif)
+
+![server side](https://user-images.githubusercontent.com/93757803/180890708-d2cbd1bc-e528-4595-8e2d-826c3f9df324.gif)
